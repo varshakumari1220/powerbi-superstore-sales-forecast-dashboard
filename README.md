@@ -83,7 +83,7 @@ The dashboard provides meaningful insights into sales trends, profitability, and
 
 # How to Use
 
-1. Download the `.pbix` file from this repository
+1. Download the `https://github.com/varshakumari1220/powerbi-superstore-sales-forecast-dashboard/blob/main/superstore%20sales.pbix` file from this repository
 2. Open it using Power BI Desktop
 3. Refresh the dataset if required
 4. Interact with filters and visuals to explore insights
