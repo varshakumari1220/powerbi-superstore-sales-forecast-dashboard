@@ -66,7 +66,7 @@ The dashboard provides meaningful insights into sales trends, profitability, and
 
 🔹 Main Dashboard
 
-![Dashboard](https://1drv.ms/i/c/2acc2dfd6d3283a6/IQD2mqCc8ktFRqcao7Qz4xMiAYBfhycQbYw8XLmAxQM8D64?e=BgmBwe)
+![Dashboard](https://github.com/varshakumari1220/powerbi-superstore-sales-forecast-dashboard/blob/main/Dashboard.png.png)
 
 🔹 Forecast Analysis
 
